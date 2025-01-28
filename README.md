@@ -14,7 +14,7 @@ This project aims to develop a comprehensive Medical Recommendation System that 
 
 
 ## Key Features
-1- Symptom Severity Analysis :
+-Symptom Severity Analysis :
         - Users can input their symptoms, and the system uses a severity scale to determine the urgency and possible conditions associated with the symptoms.
 
 2- Personalized Medical Recommendations :
