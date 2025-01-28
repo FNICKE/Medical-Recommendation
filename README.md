@@ -37,6 +37,12 @@ This project aims to develop a comprehensive Medical Recommendation System that 
  - SciPy: Advanced statistical analysis and optimization techniques.
  - Scikit-learn: For building and training machine learning models.
  - Flask: A lightweight web framework for creating the user interface.
+
+## Usage
+- Start the application and navigate to the web interface (if applicable).
+- Input symptoms and relevant medical details.
+- Receive personalized recommendations for treatment, diet, and workouts.
+- Provide feedback to help improve the system.
    
           
 
