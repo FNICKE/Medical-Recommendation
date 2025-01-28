@@ -20,7 +20,8 @@ Users can input their symptoms, and the system uses a severity scale to determin
 # Personalized Medical Recommendations:
 
 Based on symptom severity and user data, the system suggests possible treatments, medications, and lifestyle adjustments.
-Dietary Recommendations:
+
+# Dietary Recommendations:
 
 The system offers diet plans tailored to users’ health conditions. The recommendations aim to improve overall health and complement medical treatments.
 Customized Workout Plans:
