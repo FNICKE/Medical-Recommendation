@@ -7,6 +7,7 @@ This project aims to develop a comprehensive Medical Recommendation System that 
 - pip install pandas
 - pip install numpy
 - pip install flask
+- pip install Scikit-learn
 
 
 
@@ -28,6 +29,15 @@ This project aims to develop a comprehensive Medical Recommendation System that 
 
 - Continuous Learning :
             - The system uses machine learning techniques to refine recommendations based on user feedback, medical advancements, and ongoing data input.
+
+## Technologies Used
+ - Python: Backend development and machine learning (ML) model integration.
+ - Jupyter Notebooks: For developing and testing machine learning models, exploring data, and running experiments.
+ - Pandas & NumPy: Data handling and manipulation.
+ - SciPy: Advanced statistical analysis and optimization techniques.
+ - Scikit-learn: For building and training machine learning models.
+ - Flask: A lightweight web framework for creating the user interface.
+   
           
 
 
