@@ -14,7 +14,21 @@ This project aims to develop a comprehensive Medical Recommendation System that 
 
 
 ## Key Features
-% f
+1- Symptom Severity Analysis :
+        - Users can input their symptoms, and the system uses a severity scale to determine the urgency and possible conditions associated with the symptoms.
+
+2- Personalized Medical Recommendations :
+          - Based on symptom severity and user data, the system suggests possible treatments, medications, and lifestyle adjustments.
+
+3- Dietary Recommendations :
+           -The system offers diet plans tailored to users’ health conditions. The recommendations aim to improve overall health and complement medical treatments.
+
+4- Customized Workout Plans :
+            -Workout routines are designed to cater to users' specific health conditions, ensuring that physical activity is safe and beneficial.
+
+5- Continuous Learning :
+            - The system uses machine learning techniques to refine recommendations based on user feedback, medical advancements, and ongoing data input.
+          
 
 
 
