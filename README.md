@@ -6,6 +6,7 @@ This project aims to develop a comprehensive Medical Recommendation System that 
 - [npm install pip] 
 - [pip install pandas]
 - [pip install numpy]
+- [pip install flask]
 - [pip install sci-kic]
 
 
