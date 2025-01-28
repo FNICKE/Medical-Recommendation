@@ -10,6 +10,9 @@ This project aims to develop a comprehensive Medical Recommendation System that 
 - [pip install sci-kic]
 
 
+![image alt](https://github.com/FNICKE/Medical-Recommendation/blob/main/Img.png?raw=true)
+
+
 
 
 
