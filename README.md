@@ -16,7 +16,8 @@ Training and Learning: The system continuously learns from user feedback and imp
 # Symptom Severity Analysis:
 
 Users can input their symptoms, and the system uses a severity scale to determine the urgency and possible conditions associated with the symptoms.
-Personalized Medical Recommendations:
+
+# Personalized Medical Recommendations:
 
 Based on symptom severity and user data, the system suggests possible treatments, medications, and lifestyle adjustments.
 Dietary Recommendations:
