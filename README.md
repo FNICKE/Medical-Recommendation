@@ -115,7 +115,7 @@ Now, open **`http://127.0.0.1:5000/`** in your browser to access the system.
 | **Scikit-learn** 🤖 | Machine learning algorithms |
 | **Pandas & NumPy** 📊 | Data processing and analysis |
 | **SciPy** 📉 | Advanced statistical methods |
-| **Matplotlib** 📊 | Data visualization |
+| **Matplotlib** 📊 | Data Visualization |
 
 ---
 
